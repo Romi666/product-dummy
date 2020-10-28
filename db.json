@@ -1,53 +1,56 @@
 {
-    "RC": "00",
-    "Deskripsi" : "Sukses",
-    "Data" : [
-        {
-            "id" : 1,
-            "nama_produk" : "Daging Ayam",
-            "nama_pedagang" : "Pedagang Toko Daging Pak Amin",
-            "alamat_pedagang" : "Lantai 1 Unit 34 B",
-            "no_hp" : "0821234567789",
-            "stock" : 200,
-            "harga" : 25000,
-            "picture" : "/api/v1/find-items/0812345678907/1017/picture",
-            "unit" : "kg"
-        },
-        {
-            "id" : 2,
-            "nama_produk" : "Daging Ayam",
-            "nama_pedagang" : "Pedagang Toko Daging Pak Amin",
-            "alamat_pedagang" : "Lantai 1 Unit 34 B",
-            "no_hp" : "0821234567789",
-            "stock" : 200,
-            "harga" : 25000,
-            "picture" : "/api/v1/find-items/0812345678907/1017/picture",
-            "unit" : "kg"
+    "produk" : {
+        "RC": "00",
+        "Deskripsi" : "Sukses",
+        "Data" : [
+            {
+                "id" : 1,
+                "nama_produk" : "Daging Ayam",
+                "nama_pedagang" : "Pedagang Toko Daging Pak Amin",
+                "alamat_pedagang" : "Lantai 1 Unit 34 B",
+                "no_hp" : "0821234567789",
+                "stock" : 200,
+                "harga" : 25000,
+                "picture" : "/api/v1/find-items/0812345678907/1017/picture",
+                "unit" : "kg"
+            },
+            {
+                "id" : 2,
+                "nama_produk" : "Daging Ayam",
+                "nama_pedagang" : "Pedagang Toko Daging Pak Amin",
+                "alamat_pedagang" : "Lantai 1 Unit 34 B",
+                "no_hp" : "0821234567789",
+                "stock" : 200,
+                "harga" : 25000,
+                "picture" : "/api/v1/find-items/0812345678907/1017/picture",
+                "unit" : "kg"
+        
+            },
+            {
+                "id" : 3,
+                "nama_produk" : "Daging Ayam",
+                "nama_pedagang" : "Pedagang Toko Daging Pak Amin",
+                "alamat_pedagang" : "Lantai 1 Unit 34 B",
+                "no_hp" : "0821234567789",
+                "stock" : 200,
+                "harga" : 25000,
+                "picture" : "/api/v1/find-items/0812345678907/1017/picture",
+                "unit" : "kg"
+        
+            },
+            {
+                "id" : 4,
+                "nama_produk" : "Daging Ayam",
+                "nama_pedagang" : "Pedagang Toko Daging Pak Amin",
+                "alamat_pedagang" : "Lantai 1 Unit 34 B",
+                "no_hp" : "0821234567789",
+                "stock" : 200,
+                "harga" : 25000,
+                "picture" : "/api/v1/find-items/0812345678907/1017/picture",
+                "unit" : "kg"
+        
+            }
+        ]
+    }
     
-        },
-        {
-            "id" : 3,
-            "nama_produk" : "Daging Ayam",
-            "nama_pedagang" : "Pedagang Toko Daging Pak Amin",
-            "alamat_pedagang" : "Lantai 1 Unit 34 B",
-            "no_hp" : "0821234567789",
-            "stock" : 200,
-            "harga" : 25000,
-            "picture" : "/api/v1/find-items/0812345678907/1017/picture",
-            "unit" : "kg"
-    
-        },
-        {
-            "id" : 4,
-            "nama_produk" : "Daging Ayam",
-            "nama_pedagang" : "Pedagang Toko Daging Pak Amin",
-            "alamat_pedagang" : "Lantai 1 Unit 34 B",
-            "no_hp" : "0821234567789",
-            "stock" : 200,
-            "harga" : 25000,
-            "picture" : "/api/v1/find-items/0812345678907/1017/picture",
-            "unit" : "kg"
-    
-        }
-    ]
   }
